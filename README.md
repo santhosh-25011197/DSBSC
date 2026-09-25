@@ -70,7 +70,8 @@ plot(t,eDSBSC);
 
 Output Graph
 
-<img width="1917" height="918" alt="Screenshot 2026-09-25 115440" src="https://github.com/user-attachments/assets/768a2da2-a44e-490a-8922-c5a668337984" />
+<img width="1917" height="900" alt="Screenshot 2026-09-25 115431" src="https://github.com/user-attachments/assets/e83fd013-5f11-4fce-9239-e54a113c8c13" />
+
 
 Tablular Column
 
